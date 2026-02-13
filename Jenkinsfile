@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                echo "pipline is working"
+                echo "pipline is working fine"
             }
         }
         
